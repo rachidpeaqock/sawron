@@ -1,0 +1,8 @@
+com\tenor\tsf\gs\test\DepartementDAOTest.class
+com\tenor\tsf\gs\test\UtilisateurDaoTest.class
+service\SalleServiceTest.class
+com\tenor\tsf\gs\test\MaterielDAOTest.class
+com\tenor\tsf\gs\test\ReservationDAOTest.class
+service\ReservationServiceTest.class
+com\tenor\tsf\gs\test\SalleDAOTest.class
+com\tenor\tsf\gs\test\ReclamationDAOTest.class
